@@ -1,5 +1,61 @@
 # DATA-Analysis_Using_Tableau
 
+## Data Visualization Best Practices and Technology Stack
+
+### Data Visualization Best Practices
+
+- **Formatting**  
+  - Considerations for details such as colors, fonts, shapes, and background.
+  
+- **Data Types & Blending**  
+  - Understand different data types and how to blend multiple data sources effectively.
+
+- **Parameters, Variables, Filters, and Calculated Fields**  
+  - Utilize parameters and variables to create interactive visualizations.
+  - Filters and calculated fields help in customizing data views and analysis.
+
+- **Charts**  
+  - Leverage different types of charts to represent your data effectively.
+
+- **Python Algorithms in Calculated Fields**  
+  - Use TabPy to integrate Python algorithms in Tableau calculated fields for advanced analysis.
+
+- **Clustering**  
+  - Identify patterns and segments in data to uncover insights using clustering techniques.
+
+- **Pareto Analysis**  
+  - Apply the Pareto principle (80/20 rule) to highlight the most impactful factors.
+
+- **What-If Scenarios**  
+  - Build scenarios to predict different outcomes based on varying inputs.
+
+- **Comparisons & KPIs**  
+  - Use KPIs to compare performance and display trends with colour-coded arrows.
+
+- **Aggregations**  
+  - Implement constant, average, median, totals, and running totals for different data aggregations.
+
+- **Reference Lines & Distribution**  
+  - Use reference lines, bands, and distributions to emphasize key thresholds and data spread.
+
+---
+
+### Technology Stack
+
+- **Data Formats**  
+  - MS Excel, CSV files: Common file types used for importing and exporting data.
+
+- **Database**  
+  - MySQL Workbench, MySQL Server: Tools for managing and querying MySQL databases.
+
+- **Tableau**  
+  - Tableau Prep, Tableau Desktop (Pro), Tableau Online: Visualization and analytics tools for data preparation and insights.
+  
+- **TabPy API**  
+  - Use the TabPy API to extend Tableau’s functionality with Python.
+
+- **Python**  
+  - Python Engine and Libraries: Leverage Python to create custom algorithms and use them within Tableau calculated fields.
 
 
 ## Super Store Dashboard
